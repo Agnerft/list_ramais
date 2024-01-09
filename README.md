@@ -1,4 +1,4 @@
-### Faze de criação (:
+### Fase de criação (:
 
 Se tiver o Go instalado
 
